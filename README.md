@@ -1,5 +1,3 @@
-![alt text](http://image.noelshack.com/fichiers/2018/48/4/1543502890-pick-your-cat-logo.png "Logo ") 
-
 # THP E-Shop 2018
 
 E-Shop for Thp project Session 6 2018 <br>
